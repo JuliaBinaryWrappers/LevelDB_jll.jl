@@ -1,0 +1,288 @@
+[[LevelDB]]
+arch = "aarch64"
+git-tree-sha1 = "b4ae06d3ef2a4643bcbd3a904023665c2e3a241e"
+os = "macos"
+
+    [[LevelDB.download]]
+    sha256 = "99af5eddfe0c8db69600cdd642749e699724e989a08805e8363f6649cf4aaba2"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.aarch64-apple-darwin.tar.gz"
+[[LevelDB]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cf00d7b935fc0f51d59989a1dd04d86a2fb5116c"
+libc = "glibc"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "e5ad7dfe8c7934ff8c0fc4960d532cfa817c611bbeaa97a9e544878b3a159221"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[LevelDB]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0fb771a624984bf102c4c4e6102d36c05b97f49d"
+libc = "glibc"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "d93709c08e02261aab8beb3917ec02043a32ee1e49dd1939327fe81281e4141c"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[LevelDB]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2470a4c3353ac693dd477e202fe851c195164b69"
+libc = "musl"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "c3f8dff9fdfb9f0f969296c75b2622f7c45208454439607f992d85fc194d9177"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.aarch64-linux-musl-cxx03.tar.gz"
+[[LevelDB]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a8b2e5d8d68b7cab301447b5661a38f3a918c224"
+libc = "musl"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "2e815a1d8839739bc84c9c2d891fb418250d796a04bb7808265313457aa3dbb0"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.aarch64-linux-musl-cxx11.tar.gz"
+[[LevelDB]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3fa1b57cd5fce358d19275e09ab7e7c3a3fd08b2"
+libc = "glibc"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "458ac58da8595a6a7289a3778fcaf2501fe7ee3fcd60ebea0a2609cd86a98c5b"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[LevelDB]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "55ff2b400ee8ccfc50063eff67a3dea788aea961"
+libc = "glibc"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "25c01aae943e5237fcde662b9ec108290cf204e7fba7cd6f7594a020998257ee"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[LevelDB]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6950b8a964879d2a2410ca169db70c850895c7f7"
+libc = "musl"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "dde13268d081c6108d54736196326f9c5367065e3cdb666f5240eaedaecce2b3"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[LevelDB]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a7aa814f8c2b98b0fe8aafbab81cba44da6dd9ae"
+libc = "musl"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "260900f714342ad983e5a0a4bb74f707ca1958090e0da33bfb28cd2a97ea15ad"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[LevelDB]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "60f8b2260521e7cfdeb819a1e5153cf2e350f279"
+libc = "glibc"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "90025333f4e085759213cc5eba20223fa712a2c075c88d96317349c37246920b"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[LevelDB]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "44368b5e6e6ab13bdd3b5d01c070d7910f7eb623"
+libc = "glibc"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "09603d668d012297c2cec7ca0093047e32f355ea43bce884c5d18242a24cf7b3"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[LevelDB]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f739bc67f937ba86fbb6d149340aa40c3df0f083"
+libc = "musl"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "73e613c0dcf730bc155a88bd56ea14260123e842d9a20eaecb44d9f959424b7c"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[LevelDB]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3f7281e1fd5bf99e4752a52fe80a6c931d78f0ef"
+libc = "musl"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "0860ad0a65a81476b59bc0de24a74b17599b20db35ee05e707375c73421a592f"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[LevelDB]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8d678e0386f60a4f44de7db5a59b1454711b770e"
+libc = "glibc"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "cb44441ab4d1d8f66bb76463bb67f3f75ed2652d35c4175eb8f09fa6cb819a22"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.i686-linux-gnu-cxx03.tar.gz"
+[[LevelDB]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "039f6a69085499481059773303e6de5efdf3292a"
+libc = "glibc"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "b7d1feaf3601a072e4bf4baceb52ed4f22f099c885c7f5746f3233c2085f8257"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.i686-linux-gnu-cxx11.tar.gz"
+[[LevelDB]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "81447a6a5202817bcdd56fe1f47d1af254f34ab9"
+libc = "musl"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "7b6a57ad51d7f00310f168a30f575686650f27f068bc69241ff66f64c0f15846"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.i686-linux-musl-cxx03.tar.gz"
+[[LevelDB]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c887d0bd1a55c0a0153f5ad20f73bab6e6838e1c"
+libc = "musl"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "90a70184560c337cb230e46e1c7ea2fdc3552aa2119ae2c9568e00cd6fa1b9c1"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.i686-linux-musl-cxx11.tar.gz"
+[[LevelDB]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3e72a395f3eb9484229cc7a2cb4a54fcec94c30d"
+os = "windows"
+
+    [[LevelDB.download]]
+    sha256 = "a637999ea927b94f421d3401930a41b5ec4189b2b79a9cf56813fbf983d9498d"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.i686-w64-mingw32-cxx03.tar.gz"
+[[LevelDB]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b0e2aa92a5cd6d07b41acfd36d759c80439699c9"
+os = "windows"
+
+    [[LevelDB.download]]
+    sha256 = "e9c5e2be640465ebdd7357bda2a798f0a64b48d5b2fbe03d4783b8098cae9620"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.i686-w64-mingw32-cxx11.tar.gz"
+[[LevelDB]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "36ca162ffdfa0fe91785b4bf284447e800398490"
+libc = "glibc"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "f630bfbaadee0b7361290776c39e857bd3ad2c4c516c24e7ad025e142a5bb9fd"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[LevelDB]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4f2c0433077bda076710548813bf3aaa9cc7b4fe"
+libc = "glibc"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "584393f05e6bf927ca04f8874c56e2082b287635543f0b72253395852880897d"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[LevelDB]]
+arch = "x86_64"
+git-tree-sha1 = "187bf7818504f4aba56228a7b5a612cf17c2248e"
+os = "macos"
+
+    [[LevelDB.download]]
+    sha256 = "5846d1be5e1c612aa894c9020b104ba46679ddcb1187c18fed4ae718d2efab2c"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.x86_64-apple-darwin.tar.gz"
+[[LevelDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9967b25402d5353f6920bc18039150a625bb0582"
+libc = "glibc"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "110c21e9c648f6d78ce7c6314da64c9c68e16e3fc70283fb586ada2c5907387d"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[LevelDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea893fd0c59f0eb80f3e33e1ac06fbf47164b6cc"
+libc = "glibc"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "66a3f5893b7243cad83e46fd406585b63d28c8de55cf6d3a4bae18b00427ed5e"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[LevelDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c207db8b0fdca52b2624f29f5dba982395171350"
+libc = "musl"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "bf8fb56527373cba69fd56a6f0d138dbdca7889e884e460dba81ebb021ca2d66"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.x86_64-linux-musl-cxx03.tar.gz"
+[[LevelDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3f5f60d64bada9da51914fa00074d6d73c9cef0f"
+libc = "musl"
+os = "linux"
+
+    [[LevelDB.download]]
+    sha256 = "daf2b3d4e77af86564ae92aa0a4019566360973f73cdeb45c273a4f58edcd6e9"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.x86_64-linux-musl-cxx11.tar.gz"
+[[LevelDB]]
+arch = "x86_64"
+git-tree-sha1 = "c6fbcb46fd628b42032b8df2c6ea93e3516869ae"
+os = "freebsd"
+
+    [[LevelDB.download]]
+    sha256 = "c45a86a605f1c74ddfcda680e6acf9e0280c513cb4c64d15983a7550229c6bda"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.x86_64-unknown-freebsd.tar.gz"
+[[LevelDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fb85fc759869cb93753f80b0d2b0af61b11ef8cc"
+os = "windows"
+
+    [[LevelDB.download]]
+    sha256 = "7a23cdbe750c837f8c29ffe675a681c740af598148712fab9a2d5097cfd083fc"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[LevelDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "126377419d5fa6027f5aa0df92c2a1950a6ead67"
+os = "windows"
+
+    [[LevelDB.download]]
+    sha256 = "b52b4dca4f6ec8d6193d43902ed204119cac52c7ff97d908aee223038e451851"
+    url = "https://github.com/JuliaBinaryWrappers/LevelDB_jll.jl/releases/download/LevelDB-v1.23.0+0/LevelDB.v1.23.0.x86_64-w64-mingw32-cxx11.tar.gz"
